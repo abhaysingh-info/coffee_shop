@@ -1,9 +1,9 @@
 .nav-wrapper {
-	background-color: #6f4037;
+	background-color: #55322b;
 }
 
 .slider > .indicators > .indicator-item.active {
-	background-color: #6f4037;
+	background-color: #55322b;
 }
 
 .move {
@@ -17,21 +17,21 @@
 }
 
 .menu-icon {
-	font-size: 2rem !important;
+	font-size: 1rem !important;
 	margin-right: 1rem;
 	cursor: pointer;
 }
 
 .menu-icon:hover {
-	font-size: 2.5rem !important;
+	font-size: 1.5rem !important;
 }
 
 .icon-coffee {
-	color: #6f4037;
+	color: #ffffff;
 }
 
 .footer-one {
-	background-color: #6f4037;
+	background-color: #55322b;
 }
 
 .footer-two {
@@ -40,4 +40,15 @@
 
 .brand-logo {
 	margin-left: 1rem;
+}
+
+body {
+	width: auto;
+	height: 100vh;
+	background-color: #6f4037 !important;
+	color: snow;
+}
+
+.bg-darkBrown {
+	background-color: #55322b !important;
 }
